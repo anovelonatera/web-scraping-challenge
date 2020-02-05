@@ -1,0 +1,28 @@
+h2, h4 {
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.figure-caption {
+    color: antiquewhite;
+    font-weight: bold;    
+}
+
+strong {
+    color: saddlebrown
+}
+
+.nasa-latest {
+    width: 700px;
+    height: 450px;
+}
+
+
+.about-img {
+    width: 700px;
+    height: 450px;
+}
+
